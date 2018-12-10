@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+
+I am Smith.I am a student of software project.
